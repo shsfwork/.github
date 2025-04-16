@@ -1,6 +1,17 @@
-# Products
+# Product Engineering & Digital Products
 
-- [SHSF UI](https://shsfui.com) - Motion-first UI library for those who care about details
-- [screenie dot me](https://www.screenie.me) - effortless screenshots
-- [unarkhive dot com](https://www.unarkhive.com) - all links, one place
-- [awesome inspiration](https://shsfwork.github.io/awesome-inspiration/#/) - design & development inspiration archive
+We craft fast, responsive, and user-first digital products — designed to convert visitors into customers.
+
+## Philosophy
+
+Build in the open.  
+Share what you learn.
+
+<details>
+  <summary>Get in Touch</summary>
+
+  - Email: [ozan@shsf.work](mailto:ozan@shsf.work)  
+  - Book a call: [cal.com/ozan/30min](https://cal.com/ozan/30min?user=ozan)
+</details>
+
+> © 2025-present. Stay hungry, stay foolish.
